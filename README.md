@@ -2,6 +2,8 @@
 
 ## [滑动窗口（Sliding Window）](/sliding-window.md)
 
+适用于：在**给定大小**的**连续子数组**中查找或计算一些东西
+
 ## 双指针（Two Pointers）
 
 ## 快慢指针（Fast & Slow pointers）
